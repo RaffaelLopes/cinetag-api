@@ -1,29 +1,24 @@
-{ "videos":
-
-[
+{
+  "videos": [
     {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+      "id": 1,
+      "titulo": "Robert Johnson- Crossroad",
+      "link": "https://www.youtube.com/watch?v=Yd60nI4sa9A"
     },
     {
-        "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+      "id": 2,
+      "titulo": "Stormy Monday Blues",
+      "link": "https://www.youtube.com/watch?v=ZoZm1UgoJUU"
     },
     {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+      "id": 3,
+      "titulo": "Black Angel Blues",
+      "link": https://www.youtube.com/watch?v=IWO7yvIPFP8"
     },
     {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+      "id": 4,
+      "titulo": "The Thrill Is Gone",
+      "https://www.youtube.com/watch?v=P_Qw4KgqpYI"
     }
-]
+  ]
 }
