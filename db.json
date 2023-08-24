@@ -13,12 +13,12 @@
     {
       "id": 3,
       "titulo": "Black Angel Blues",
-      "link": https://www.youtube.com/watch?v=IWO7yvIPFP8"
+      "link": "https://www.youtube.com/watch?v=IWO7yvIPFP8"
     },
     {
       "id": 4,
       "titulo": "The Thrill Is Gone",
-      "https://www.youtube.com/watch?v=P_Qw4KgqpYI"
+    "link":"https://www.youtube.com/watch?v=P_Qw4KgqpYI"
     }
   ]
 }
